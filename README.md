@@ -1,1 +1,13 @@
-# Divisible-Numbers-Program
+for i in range(10,150):
+   if i%15==0 and i%5==0:
+      print(" ",i)
+Output:
+   15
+   30
+   45
+   60
+   75
+   90
+   105
+   120
+   135
